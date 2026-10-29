@@ -1,0 +1,7 @@
+# Ignore dataset files (Too large for GitHub)
+data/
+*.parquet
+
+# Ignore Python cache
+__pycache__/
+*.pyc
